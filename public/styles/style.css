@@ -1,0 +1,47 @@
+.logout {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.back {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.next {
+    position: absolute;
+    top: 10px;
+    right: 100px;
+}
+
+
+.container-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+.account {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    min-height: 30vh;
+}
+
+input {
+    width: 230px; 
+}
+
+.smart-captcha {
+    width: 100px;
+    margin: 0 auto;
+}
+

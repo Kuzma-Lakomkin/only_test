@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "src\\": "src"
+        }
+    },
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
